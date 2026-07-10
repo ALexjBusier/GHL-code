@@ -301,6 +301,15 @@ a { color: inherit; text-decoration: none; }
   margin-top: 10px;
 }
 .step { position: relative; padding-left: 0; }
+.step:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  right: -15px;
+  bottom: 4px;
+  width: 1px;
+  background: rgba(242,232,216,0.25);
+}
 .step-icon {
   width: 56px;
   height: 56px;

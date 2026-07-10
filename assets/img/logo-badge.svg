@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 400">
+  <path d="M30,190 C10,110 50,30 130,15 C180,-5 240,-5 290,15 C370,30 410,110 390,190 L385,320 C385,355 355,375 320,375 L100,375 C65,375 35,355 35,320 Z"
+        fill="#16323E" stroke="#7A2E39" stroke-width="9"/>
+
+  <path id="arcALILA" d="M 60,158 Q 210,26 360,158" fill="none"/>
+  <text font-family="'Baloo 2','Poppins',sans-serif" font-weight="700" font-size="70" letter-spacing="2" fill="#F2E8D8">
+    <textPath href="#arcALILA" startOffset="50%" text-anchor="middle">ALILA</textPath>
+  </text>
+
+  <rect x="80" y="200" width="42" height="3" fill="#6E93A6"/>
+  <text x="101" y="222" font-family="'Inter',sans-serif" font-weight="600" font-size="20" letter-spacing="2" fill="#6E93A6" text-anchor="middle">EST.</text>
+
+  <rect x="298" y="200" width="42" height="3" fill="#6E93A6"/>
+  <text x="319" y="222" font-family="'Inter',sans-serif" font-weight="600" font-size="20" letter-spacing="1" fill="#6E93A6" text-anchor="middle">2019</text>
+
+  <circle cx="210" cy="216" r="38" fill="#7A2E39"/>
+  <rect x="204.5" y="190" width="11" height="52" rx="5" fill="#F2E8D8"/>
+  <rect x="184" y="210.5" width="52" height="11" rx="5" fill="#F2E8D8"/>
+
+  <text x="210" y="335" font-family="'Inter',sans-serif" font-weight="600" font-size="36" letter-spacing="9" fill="#6E93A6" text-anchor="middle">SERVICES</text>
+</svg>

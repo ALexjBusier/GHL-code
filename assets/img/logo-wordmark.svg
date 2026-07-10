@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 100">
+  <g>
+    <circle cx="50" cy="50" r="42" fill="#7A2E39"/>
+    <rect x="45.5" y="21" width="9" height="58" rx="4.5" fill="#F2E8D8"/>
+    <rect x="21" y="45.5" width="58" height="9" rx="4.5" fill="#F2E8D8"/>
+    
+    
+  </g>
+  <text x="112" y="46" font-family="'Baloo 2', 'Poppins', sans-serif" font-weight="700" font-size="34" letter-spacing="1" fill="#16323E">ALILA</text>
+  <text x="112" y="72" font-family="'Inter', sans-serif" font-weight="600" font-size="15" letter-spacing="5" fill="#6E93A6">SERVICES</text>
+</svg>
